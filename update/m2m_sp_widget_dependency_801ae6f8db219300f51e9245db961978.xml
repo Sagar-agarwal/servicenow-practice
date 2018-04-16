@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="dialog-polyfill">2eaf31f30b301200b0b02c6317673a84</sp_dependency>
+        <sp_widget display_value="u_sc_cat_item">441ae6f8db219300f51e9245db961975</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-16 08:17:38</sys_created_on>
+        <sys_id>801ae6f8db219300f51e9245db961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dialog-polyfill.u_sc_cat_item</sys_name>
+        <sys_package display_value="SP_Practice" source="x_62665_sp_practic">4f8bde74db219300f51e9245db96195d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SP_Practice">4f8bde74db219300f51e9245db96195d</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_801ae6f8db219300f51e9245db961978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-16 08:17:38</sys_updated_on>
+    </m2m_sp_widget_dependency>
+</record_update>
